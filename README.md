@@ -2,4 +2,6 @@
 
 These results represent outputs from the imputation optimisation 1st July 2025, using MICE method, 
 also from the imputation optimisation 15th July 2025, using hurdle approach. 
-Comparison of performance and visualisation with graphs
+Comparison of performance and visualisation with graphs.
+
+See also: https://github.com/mahesh-ms4/vte-prophylaxis-timing-in-tbi/tree/main/src
